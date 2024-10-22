@@ -4,7 +4,7 @@
 <div class="row justify-content-center justify-content-lg-start my-5 container mx-auto">
     <div class="col-12 col-md-10  col-lg-6 align-self-center">
         <h1 class="fw-bold" style="font-size: 64px">Perpustakaan SMK Pustek Serpong</h1>
-        <p class="fs-4 mb-5">Platform untuk mencari buku-buku yang ada di Perpustakaan SMK Pustek Serpong</p>
+        <p class="fs-4 mb-5">Platform untuk mencari buku pada Perpustakaan SMK Pustek Serpong</p>
         <div>
             <a href="/posts" class="btn bg-primary px-4 py-3 fs-5 fw-semibold text-white me-sm-2 d-block d-sm-inline-block">Lihat Buku</a>
         </div>
